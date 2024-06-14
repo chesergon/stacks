@@ -58,10 +58,10 @@ class Stack {
     }
 }
 Applications of Stacks
-Function Call Management: The call stack in programming languages manages function calls.
-Expression Evaluation: Used in parsing expressions (e.g., converting infix to postfix).
-Backtracking: Algorithms like depth-first search use stacks to keep track of visited nodes.
-Undo Mechanisms: Most text editors use stacks to implement undo functionality.
+1.Function Call Management: The call stack in programming languages manages function calls.
+2.Expression Evaluation: Used in parsing expressions (e.g., converting infix to postfix).
+3.Backtracking: Algorithms like depth-first search use stacks to keep track of visited nodes.
+4.Undo Mechanisms: Most text editors use stacks to implement undo functionality.
 Conclusion
 Stacks are a simple yet powerful data structure that can be efficiently implemented in JavaScript using arrays. Understanding and using stacks can significantly enhance your problem-solving skills in various domains such as algorithms, system design, and application development.
 
